@@ -9,9 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="NumFlat" Version="0.10.8" />
+    <PackageReference Include="NumFlat" Version="1.2.2" />
     <PackageReference Include="OpenBlasSharp" Version="0.3.4" />
-    <PackageReference Include="OpenBlasSharp.Windows" Version="2024.8.15" />
+    <PackageReference Include="OpenBlasSharp.Windows" Version="2026.1.17" />
   </ItemGroup>
 
 </Project>
